@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="GitHub Repo Tasks" max_length="40" name="x_21260_github_tes_github_repo_tasks" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Repository" max_length="40" name="repository" type="string"/>
+    </element>
+</database>
